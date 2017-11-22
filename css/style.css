@@ -1,24 +1,25 @@
 /* cтили css для сайта - команда*/
-@import url('/layout/base.css');
-@import url('/sections/header.css');
-@import url('/sections/maincontent.css');
-@import url('/sections/sidebar.css');
-@import url('/sections/pilots.css');
-@import url('/sections/footer.css');
+@import url('https://codeman23.github.io/airplanet/layout/base.css');
+@import url('https://codeman23.github.io/airplanet/sections/header.css');
+@import url('https://codeman23.github.io/airplanet/sections/maincontent.css');
+@import url('https://codeman23.github.io/airplanet/sections/sidebar.css');
+@import url('https://codeman23.github.io/airplanet/sections/pilots.css');
+@import url('https://codeman23.github.io/airplanet/sections/footer.css');
 
 /*главная - о нас*/
 
-@import url('/sections/about.css');
+@import url('https://codeman23.github.io/airplanet/sections/about.css');
 
 /*отзывы*/
 
-@import url('/sections/feedback.css');
+@import url('https://codeman23.github.io/airplanet/sections/feedback.css');
 
 /*отзывы*/
 
-@import url('/sections/intro.css');
+@import url('https://codeman23.github.io/airplanet/sections/intro.css');
 
 /*форма*/
 
-@import url('/sections/forma.css');
+@import url('https://codeman23.github.io/airplanet/sections/forma.css');
+
 
