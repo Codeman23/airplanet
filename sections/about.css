@@ -1,0 +1,102 @@
+
+
+.about__photo{
+	position: relative;
+	width: 880px;
+	height: 358px;
+	margin-top: -41px;
+}
+
+.photo__img {
+	position: absolute;
+}
+
+.photo__title {
+	position: absolute;
+	top: 145px;
+	left: 67px;
+}
+
+.about__text {
+	margin-bottom: 60px;
+	font-family: robotolight,sans-serif;
+	font-size: 18px;
+	color: #221f1f;
+	line-height: 1.68;
+	width: 700px;
+}
+
+.about__text p {
+	padding: 0;
+	margin: 16px 0;
+}
+
+
+.about__text ul {
+	list-style-type: none;
+	margin: -9px 0 12px 40px;
+}
+.about__text ul li {
+	position: relative;
+	margin: 5px 0;
+}
+
+.about__text ul li::before {
+	content: '';
+	background-color: #221f1f;
+	height: 4px;
+	width: 4px;
+	position: absolute;
+	left: -26px;
+	top: 14px;
+	border-radius: 50%;
+}
+
+.text__booking {
+	padding: 12px 30px;
+	background-color: #1c5bc3;
+	color: #ffffff;
+	margin: 19px 0 22px;
+}
+
+.text__booking p {
+	margin: 0;
+}
+
+.text__booking a {
+	color: #ffffff;
+	font-family: robotobold,sans-serif;
+}
+
+.text__booking a:hover {
+	text-decoration: none;
+}
+
+.about-logo {
+	margin-bottom: 15px;
+}
+
+.about-logo__item {
+	width: 160px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+	margin: 6px 107px 52px 0;
+	-webkit-filter: grayscale(100%);
+	opacity: .5;
+	transition: .3s ease-in-out;
+}
+
+
+.about-logo__img {
+	display: block;
+	/*margin: 0 auto 80px;*/
+	position: relative;
+
+}
+
+.about-logo__item:hover {
+	-webkit-filter: grayscale(0%);
+	opacity: 1;
+}
+

@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'svgfont_1regular';
+    src: url('fontcustom-webfont.eot');
+    src: url('fontcustom-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fontcustom-webfont.woff2') format('woff2'),
+         url('fontcustom-webfont.woff') format('woff'),
+         url('fontcustom-webfont.ttf') format('truetype'),
+         url('fontcustom-webfont.svg#svgfont_1regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

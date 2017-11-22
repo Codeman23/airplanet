@@ -1,0 +1,24 @@
+/* cтили css для сайта - команда*/
+@import url('/layout/base.css');
+@import url('/sections/header.css');
+@import url('/sections/maincontent.css');
+@import url('/sections/sidebar.css');
+@import url('/sections/pilots.css');
+@import url('/sections/footer.css');
+
+/*главная - о нас*/
+
+@import url('/sections/about.css');
+
+/*отзывы*/
+
+@import url('/sections/feedback.css');
+
+/*отзывы*/
+
+@import url('/sections/intro.css');
+
+/*форма*/
+
+@import url('/sections/forma.css');
+

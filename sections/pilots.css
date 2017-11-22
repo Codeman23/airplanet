@@ -1,0 +1,48 @@
+.pilots {
+	list-style-type:none;
+	padding: 5px;
+	margin: 0 -25px 16px 0;
+}
+
+.pilots__item {
+	width: 270px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	margin: 0 25px 44px 0;
+
+}
+
+
+.pilots__avatar-img {
+	width: 160px;
+	height: 160px;
+	border-radius: 50%;
+	vertical-align: top;
+	display: inline-block;
+	margin-bottom: 17px;
+}
+
+.pilots__description {
+	font-family: robotobold, sans-serif;
+}
+
+.pilots__name {
+	margin-bottom: 5px;
+	font-size: 18px;
+	line-height: 1.15;
+}
+
+.pilots__career {
+	font-size: 14px;
+	color: #1c5bc3;
+	margin-bottom: 8px;
+}
+
+
+.pilots__content {
+	font-family: robotolight, sans-serif;
+	font-size: 13.2px;
+	letter-spacing: 0.4px;
+	line-height: 1.65;
+}
